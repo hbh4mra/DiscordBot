@@ -1,8 +1,8 @@
 # DiscordBot
  
 📁DiscordBot
-⠀└📁commands
-         └📁economy
+  └📁commands
+     └📁economy
                └📜balance.js
                └📜beg.js
                └📜deposit.js
