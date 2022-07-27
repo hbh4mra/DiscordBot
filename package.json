@@ -1,0 +1,25 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "Server Manager Bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dragonikz",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.7.0",
+    "call-of-duty-api": "^3.1.1",
+    "discord.js": "^13.7.0",
+    "dotenv": "^16.0.1",
+    "ffmpeg-static": "^5.0.0",
+    "fs": "^0.0.1-security",
+    "images-scraper": "^6.4.0",
+    "minecraft-server-util": "^5.2.9",
+    "mongoose": "^6.3.4",
+    "ms": "^2.1.3",
+    "yt-search": "^2.10.3",
+    "ytdl-core": "^4.11.0"
+  }
+}
